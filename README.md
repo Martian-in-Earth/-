@@ -1,7 +1,7 @@
-# 养猪计划
+# Pig Plan
 
-* `目标`：传授人间最科学、最有效、最高产的养猪技术 🍺
-* `哲言`：一德一心，一言一行，千秋之大业可成 🐽
+* `Target`：To teach the most scientific, effective, and highest-yielding swine technology 🍺
+* `Vision`：A virtue, a word and a deed, the great cause of the future can be success 🐽
 * ---> ^(*￣(oo)￣)^
 
 ```
@@ -26,8 +26,8 @@
  *       └─┐  ┐  ┌───────┬──┐  ┌──┘
  *         │ ─┤ ─┤       │ ─┤ ─┤
  *         └──┴──┘       └──┴──┘
- *                神兽保佑
- *              我的猪仔快快长!
+ *                God bless
+ *           My pigs grow faster!
  */
 ```
 
@@ -53,8 +53,8 @@
  *       └─┐  ┐  ┌───────┬──┐  ┌──┘  + + + +
  *         │ ─┤ ─┤       │ ─┤ ─┤
  *         └──┴──┘       └──┴──┘  + + + +
- *                神兽保佑
- *              我的猪仔长快快!
+ *                God bless
+ *             My pigs grow fatter!
  */
 ```
 
@@ -80,7 +80,7 @@
  *       └─┐  ┐  ┌───────┬──┐  ┌──┘
  *         │ ─┤ ─┤       │ ─┤ ─┤
  *         └──┴──┘       └──┴──┘
- *                神兽保佑
- *              我的猪仔快长快!
+ *                God bless
+ *            My pigs grow healthy!
  */
 ```
